@@ -28,8 +28,13 @@ The objective of the SOAR-EDR Lab project is to establish a robust Security Orch
 
 📺 [End Result Showcase](https://www.youtube.com/watch?v=bfsGzSheidE&t=9s)
 
-## Download Here
-📥 [Download the SOAR-EDR Lab Video](https://example.com/download)
+## Screenshots
+
+![Cynik-SOAR-EDR Project-storyboard](https://github.com/user-attachments/assets/3fb2c871-0e52-4bfa-a659-a4697a4ddf63)
+![giothub image 23](https://github.com/user-attachments/assets/8ce6bf2e-61aa-4113-90cf-f478b92a50a2)
+![github image2112](https://github.com/user-attachments/assets/9b7ae239-3063-4094-9954-4a26e8673cf3)
+![github image](https://github.com/user-attachments/assets/87228160-c32c-411d-bc99-da146599dab5)
+
 # Outline
 
 ## Part 1: Introduction and Project Setup
