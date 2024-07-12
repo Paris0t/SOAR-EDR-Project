@@ -23,11 +23,13 @@ The objective of the SOAR-EDR Lab project is to establish a robust Security Orch
 
 📊 Telemetry generation tools for simulating attack scenarios.
 
-## Link to my YouTube video (full walkthrough)
-📺 [Watch the SOAR-EDR Lab Series on my YouTube](https://www.youtube.com/watch?v=SyeK4VyFte8&t=1191s)
+## Link to my YouTube videos
+📺 [Full Walkthrough](https://www.youtube.com/watch?v=SyeK4VyFte8&t=1191s)
+
+📺 [End Result Showcase](https://www.youtube.com/watch?v=bfsGzSheidE&t=9s)
 
 ## Download Here
-📥 [Download the SOAR-EDR Lab Materials](https://example.com/download)
+📥 [Download the SOAR-EDR Lab Video](https://example.com/download)
 # Outline
 
 ## Part 1: Introduction and Project Setup
