@@ -4,7 +4,6 @@
 The objective of the SOAR-EDR Lab project is to establish a robust Security Orchestration, Automation, and Response (SOAR) system integrated with Endpoint Detection and Response (EDR) using Tines and LimaCharlie. This project aims to automate incident response workflows, enhance cybersecurity defenses, and validate detection rules through comprehensive testing and integration.
   
 ### Skills Learned
-📚 Introduction to SOAR and EDR concepts.
 
 🔧 Practical setup and configuration of SOAR and EDR environments.
 
